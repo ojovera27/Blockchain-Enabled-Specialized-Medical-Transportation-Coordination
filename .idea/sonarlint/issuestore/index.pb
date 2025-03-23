@@ -13,3 +13,7 @@ Q
 !contracts/route-optimization.clar,0/3/038d909864c1fd35bd54b4e4486b984891d68742
 P
  tests/route-optimization.test.ts,6/1/612040f7902b292e3a92af529636a79acb6e724f
+S
+#contracts/vehicle-verification.clar,4/e/4e9b89e7dd12e28763260a0a44684938eb5aeca2
+R
+"tests/vehicle-verification.test.ts,e/0/e092d9b537ad01b66a6dbde85bb221ff2c00cb6b
